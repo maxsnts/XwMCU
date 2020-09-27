@@ -4,7 +4,7 @@
 #define XwMcuM590_h
 
 #include <Arduino.h>
-#include <XwMcuATdevice.h>
+#include "XwMcuATdevice.h"
 
 //******************************************************************************
 class XwMcuM590 : public XwMcuATdevice
