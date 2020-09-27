@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "Libraries"
+		},
+		{
+			"name": "XwPulseGenerator",
+			"path": "XwPulseGenerator"
+		},
+		{
+			"name": "XwStreamIOremote",
+			"path": "XwStreamIOremote"
+		},
+		{
+			"name": "Test",
+			"path": "Test"
+		}
+	]
+}
